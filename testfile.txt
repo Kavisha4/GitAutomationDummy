@@ -1,1 +1,1 @@
-New content
+Testing Git Auto
